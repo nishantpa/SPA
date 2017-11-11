@@ -1,0 +1,15 @@
+<< Swami Shreeji >>
+11 Nov 2017
+
+Following "Single Page Web Applications" by Mikowski and Powell. This is the start
+of my journey to understanding what a single page application architecture is like,
+as well as learning the fundemantal language of the web, JS. As I read along, this 
+file will contain notes of important concepts, definitions or anything in between.
+
+CH1: Our First Single Page Application
+
+What is an SPA?
+	An SPA is an application delivered to the browser that doesn't reload the page 
+	during use. Think of an SPA as a fat client loaded from a web server. 
+
+	
